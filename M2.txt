@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/79.0.0.18.71;FBBV/31009847;FBDM/{density=1.5,width=480,height=854};FBLC/es_LA;FBCR/entel;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI LUA-L21;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
