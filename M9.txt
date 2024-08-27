@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/287.1.0.51.119;FBBV/245251844;FBDM/{density=2.0,width=720,height=1362};FBLC/pt_BR;FBRV/0;FBCR/TIM;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/motorola one;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
