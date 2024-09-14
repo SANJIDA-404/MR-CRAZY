@@ -1,1 +1,1 @@
-[FBAN/FBLite;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.lite;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/360.0.0.26.110;FBBV/342857984;FBDM/{density=2.5,width=1080,height=1920};FBLC/fr_FR;FBRV/342857111;FBCR/Orange;FBMF/Huawei;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/Huawei P30 Lite;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
